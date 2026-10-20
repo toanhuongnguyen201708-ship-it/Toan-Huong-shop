@@ -1,0 +1,6 @@
+{
+  "name": "DealShopee - Săn Deal Ngon Mỗi Ngày",
+  "description": "Website tổng hợp deal ngon Shopee chính hãng mỗi ngày, mã giảm giá hot và cập nhật liên tục giá tốt nhất.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
